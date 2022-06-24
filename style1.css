@@ -1,0 +1,137 @@
+
+
+header {
+
+	background: rgba(0, 56, 255, 0.64);
+	padding: 20px 0;
+}
+
+.caixa {
+
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+	width: 100%;
+	margin: 0 auto;
+}
+
+h1 {
+
+    font-size: 34px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.perfil {
+
+    display: flex;
+    align-items: center;
+}
+
+.perfil img {
+
+    width: 150px;
+}
+
+.noti {
+
+    width: 80px;
+}
+
+
+
+footer {
+
+	text-align: center;
+	background: rgba(0, 56, 255, 0.64);;
+	padding: 40px;
+
+}
+
+section {
+    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+
+
+.saldo {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.meu-saldo {
+    padding-top: 8px;
+}
+
+hr {
+
+    width: 15%;
+    height: 0px;
+
+}
+
+.saldo-geral{
+
+    padding-top: 0px;
+
+}
+
+.saldo-verde {
+    
+    display: flex;
+    align-items: center;
+}
+.saldo-verde{
+
+    font-size: 15px;
+}
+.saldo-verde img {
+
+    padding-right: 64px;
+    width: 15%;
+}
+
+
+.saldo-vermelho {
+    
+    display: flex;
+    padding-right: 65px;
+    align-items: center;
+    font-size: 15px;
+}
+
+
+.saldo-vermelho img {
+
+    padding-right: 64px;
+    width: 15%;
+}
+
+.separado {
+
+    padding-left: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+
+.logo {
+
+    width: 200px;
+}
+
+.copyright {
+
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
